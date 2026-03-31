@@ -72,6 +72,22 @@ Digital Literacy is about using Digital Literacy tools in a way. It means you ca
 - Use a clear subject line
 
 - Start your email with a greeting
+- Task 2 – Portfolio
+Set up profiles on GitHub, LinkedIn and Kaggle.
+
+Task 3 – Platforms
+Solved beginner coding problem and created Google Form quiz.
+
+Task 4 – Email Etiquette
+Wrote professional emails and created social media checklist.
+
+Task 5 – Cybercrime Awareness
+Studied phishing attack and created prevention guide.
+
+Links
+Google Form: https://docs.google.com/forms/d/e/1FAIpQLSctg1WvaB3gUO3s_2Dr3b-KT88Oi3-h_zmxxUVW8tu2plZGSg/viewform?usp=publish-editor
+Final Thought
+This project helped me understand how digital presence is important in today's world.
 
 - Keep your emails short and polite
 
